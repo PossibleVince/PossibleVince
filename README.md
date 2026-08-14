@@ -44,4 +44,4 @@ A collection of reusable AI-assisted workflows for business analysis, root-cause
 
 ## Let's Connect
 
-* [LinkedIn](https://www.linkedin.com/in/zhi-vincent-dong-b13b90128)
+* [LinkedIn](https://www.linkedin.com/in/zhi-vincent-dong)
