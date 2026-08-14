@@ -14,21 +14,25 @@ I enjoy working at the intersection of **business, data, systems, and AI** — t
 
 ## Featured Projects
 
-### Yonder
+### [Yonder](https://github.com/PossibleVince/yonder-case-study)
 
 Private iOS product MVP focused on outdoor activity planning, ride coordination, and bilingual community workflows.
 
 **Tech:** SwiftUI · Supabase · PostgreSQL · Product Design · AI-assisted Development
 
-> Full source code is private because the project is under active development. A public case study and selected sanitized implementation examples are planned.
+> Production source code and proprietary business logic remain private while the product is under active development. A public case study documents selected product, architecture, and workflow decisions.
 
-### AI Business Workflow Toolkit
+### [E-commerce Operations Dashboard](https://github.com/PossibleVince/ecommerce-operations-dashboard)
 
-A collection of reusable AI workflows for business analysis, root-cause analysis, SOP drafting, UAT checklists, stakeholder updates, and operational problem solving.
+Interactive operations dashboard focused on marketplace performance, inventory risk, logistics exceptions, returns, and data quality using synthetic data.
 
-### E-commerce Operations Dashboard
+**Tech:** Python · Pandas · Streamlit · Altair · NumPy
 
-A portfolio project focused on marketplace sales, inventory, logistics cost, operational exceptions, and data quality using synthetic data.
+[Live Demo →](https://ecommerce-operations-dashboard.streamlit.app)
+
+### [AI Business Workflow Toolkit](https://github.com/PossibleVince/ai-business-workflow-toolkit)
+
+A collection of reusable AI-assisted workflows for business analysis, root-cause analysis, SOP drafting, UAT checklists, stakeholder updates, and operational problem solving.
 
 ## Current Focus
 
